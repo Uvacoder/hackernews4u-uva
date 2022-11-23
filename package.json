@@ -22,7 +22,6 @@
     "dev": "nuxi dev",
     "build": "nuxi build",
     "start": "nuxi start",
-    "generate": "nuxi generate",
     "lint": "eslint --ext .vue,.js,.ts --ignore-path .gitignore ."
   },
   "engines": {
